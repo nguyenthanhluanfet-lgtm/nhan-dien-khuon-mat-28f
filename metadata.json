@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Điểm Danh Nhận Diện Khuôn Mặt - Firebase",
+  "description": "Ứng dụng quản trị và giám sát điểm danh nhận diện khuôn mặt kết nối trực tiếp với Firebase Firestore (nhan-dien-a2471).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
